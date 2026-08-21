@@ -217,3 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 .vscode/
+.env
+.venv/
+logs/
+__pycache__/
+*.pyc
+data/rejected_orders.csv

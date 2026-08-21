@@ -7,3 +7,4 @@ order_id,customer_id,order_date,product,quantity,unit_price
 6,104,2026-08-06,Laptop,1,800
 7,105,2026-08-07,Keyboard,2,45
 8,103,2026-08-08,Monitor,2,300
+9,109,2026-08-09,Monitor,1,300

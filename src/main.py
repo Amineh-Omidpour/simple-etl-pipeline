@@ -5,6 +5,8 @@ import psycopg2
 from dotenv import load_dotenv
 from db_connection import get_connection
 
+os.makedirs("logs", exist_ok=True)
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s",
